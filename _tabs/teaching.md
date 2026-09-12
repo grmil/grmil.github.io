@@ -1,5 +1,4 @@
 ---
-title: Teaching
 icon: fas fa-tags
 order: 3
 ---
