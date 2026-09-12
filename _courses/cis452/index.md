@@ -2,4 +2,4 @@
 layout: page
 ---
 
-[Projects](_courses/cis452/projects.md)
+[Projects](/courses/cis452/projects.md)
