@@ -1,7 +1,5 @@
 ---
 title: Teaching
-permalink: /teaching/
-layout: home
 icon: fas fa-tags
 order: 3
 ---

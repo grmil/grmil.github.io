@@ -1,8 +1,7 @@
 ---
 title: Projects
-permalink: /projects/
 icon: fas fa-stream
-order: 3
+order: 2
 ---
 
 ## Budget Manager
