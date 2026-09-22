@@ -13,9 +13,9 @@ overviews. I personally use this on my home server and access it remotely using
 a small API that I connect to on my phone. I have automation set up using a
 Python script that reads in transactions and runs the CLI tool on a timer.
 
-## DEVSH (In Progress)
+## GSH (In Progress)
 
-[View on Github](https://github.com/grmil/devsh)
+[View on Github](https://github.com/grmil/gsh)
 
 I am currently making my own UNIX shell implementation in C. I am planning on
 implementing simple project awareness in the shell. It will hopefully be able
